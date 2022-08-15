@@ -14,6 +14,15 @@
 
 ## Brainstorming
 
+- Social Media
+- Better Start.gg
+- **Todo app that works as a project management tool**
+  - Projects w/ sub tasks
+  - Each project has a due date
+  - each task has an estimated time and a % done
+  - Every day, prints out a simple 'todo' list based on the priorities you've set
+  - Can account for the days of the week you want to work
+
 ## Tools
 
 - [DB Diagram](https://dbdiagram.io/)
